@@ -52,17 +52,14 @@
 ## 统计
 
 <p align="center">
-  <img src="./stats.png" width="450" alt="stats" />
-  <img src="./langs.png" width="450" alt="langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sb1145148&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb1145148&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
 </p>
 
-<sub>两张卡是静态图，数据按 2026-10 拉取。想更新就跑一次 `cards.py` 重新生成。</sub>
-
-<!--
-想换成自动更新的版本，把上面两张图替换成下面两行。注意它们走 vercel.app，国内大概率 000。
+<!-- 备用：如果哪天卡片加载不出来，把上面两行换成下面两行（静态图，不会自动更新）
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sb1145148&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb1145148&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="./stats.png" width="450" alt="stats" />
+  <img src="./langs.png" width="450" alt="langs" />
 </p>
 -->
 
