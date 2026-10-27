@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="44" viewBox="0 0 620 44">
+  <style>
+    .t { font-family: 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 20px; fill: #ff7a45; }
+    .c { fill: #ff7a45; }
+    .blink { animation: b 1s steps(1) infinite; }
+    @keyframes b { 0%,50% { opacity: 1 } 50.01%,100% { opacity: 0 } }
+  </style>
+  <text class="t" x="12" y="28">用 AI 写代码 · 做工具 · 记录实验</text>
+  <rect class="c blink" x="392" y="13" width="10" height="20" />
+</svg>
