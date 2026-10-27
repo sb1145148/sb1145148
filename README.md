@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF7A45&center=true&vCenter=true&width=560&lines=用+AI+写代码+%C2%B7+做工具+%C2%B7+记录实验;先让它跑起来%EF%BC%8C再问它为什么能跑" alt="typing" />
+  <img src="./typing.svg" width="560" alt="用 AI 写代码 · 做工具 · 记录实验" />
 </p>
 
 <p align="center">
@@ -16,34 +16,21 @@
 
 ## 主推
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠 dsh-tools
+### 🛠 [dsh-tools](https://github.com/sb1145148/dsh-tools)
 `Shell`
 
 给 DSHA 做能真的恢复回来的备份。两个命令，绕开应用自带备份的 `ARCHIVE_LINK_ESCAPE`。
 
 <img src="https://img.shields.io/badge/-backup-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/-android-3ddc84?style=flat-square" /> <img src="https://img.shields.io/badge/-shell-89e051?style=flat-square" />
 
-[→ 仓库](https://github.com/sb1145148/dsh-tools)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 profile-kit
+### 🎨 [profile-kit](https://github.com/sb1145148/profile-kit)
 `JavaScript`
 
 开源个人博客模板。Cloudflare Pages + Workers + D1，零成本部署，MIT。
 
 <img src="https://img.shields.io/badge/-cloudflare-f38020?style=flat-square" /> <img src="https://img.shields.io/badge/-MIT-a78bfa?style=flat-square" />
 
-[→ 仓库](https://github.com/sb1145148/profile-kit)
-
-</td>
-</tr>
-</table>
+---
 
 ## 其他
 
@@ -64,13 +51,20 @@
 
 ## 统计
 
-<!-- ⚠️ 这两张卡片走 vercel.app，国内网络经常加载不出来（实测返回 000）。
-     如果打开主页看到两个破图，直接把下面这一节整段删掉即可，不影响其他内容。 -->
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sb1145148&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb1145148&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
+  <img src="./stats.png" width="450" alt="stats" />
+  <img src="./langs.png" width="450" alt="langs" />
 </p>
+
+<sub>两张卡是静态图，数据按 2026-10 拉取。想更新就跑一次 `cards.py` 重新生成。</sub>
+
+<!--
+想换成自动更新的版本，把上面两张图替换成下面两行。注意它们走 vercel.app，国内大概率 000。
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sb1145148&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb1145148&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+-->
 
 ---
 
