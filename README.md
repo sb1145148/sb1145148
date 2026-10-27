@@ -34,10 +34,15 @@
 
 ## 其他
 
-| 仓库 | 栈 | 说明 |
-|---|---|---|
-| [particle-gallery](https://github.com/sb1145148/particle-gallery) | `JavaScript` | 粒子效果相册，支持自定义图片 |
-| [minesweeper](https://github.com/sb1145148/minesweeper) | `HTML` | 扫雷，用来验证「AI 能不能独立写完一个小游戏」 |
+### ✨ [particle-gallery](https://github.com/sb1145148/particle-gallery)
+`JavaScript`
+
+粒子效果相册，支持自定义图片。用 deepseek-harness 做的小实验。
+
+### 💣 [minesweeper](https://github.com/sb1145148/minesweeper)
+`HTML`
+
+扫雷。用来验证「AI 能不能独立写完一个小游戏」。
 
 ---
 
