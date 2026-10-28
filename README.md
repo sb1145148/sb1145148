@@ -70,6 +70,19 @@
 
 ---
 
+## 贡献
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sb1145148/sb1145148/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sb1145148/sb1145148/output/snake.svg" alt="contribution snake" width="100%" />
+  </picture>
+</p>
+
+<sub>每天北京时间 11:00 由 Actions 重新生成。</sub>
+
+---
+
 <p align="center">
   <sub>先让它跑起来，再问它为什么能跑。</sub>
 </p>
