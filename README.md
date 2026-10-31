@@ -57,8 +57,8 @@
 ## 统计
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sb1145148&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb1145148&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
+  <img width="46%" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=stats&theme=pink" alt="GitHub 统计" />
+  <img width="46%" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=langs&theme=pink&langs_count=9" alt="常用语言" />
 </p>
 
 <!-- 备用：如果哪天卡片加载不出来，把上面两行换成下面两行（静态图，不会自动更新）
