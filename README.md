@@ -57,8 +57,11 @@
 ## 统计
 
 <p align="center">
-  <img width="46%" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=stats&theme=pink" alt="GitHub 统计" />
-  <img width="46%" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=langs&theme=pink&langs_count=9" alt="常用语言" />
+  <img width="480" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=stats&theme=pink&v=2" alt="GitHub 统计" />
+</p>
+
+<p align="center">
+  <img width="480" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=langs&theme=pink&langs_count=9&v=2" alt="常用语言" />
 </p>
 
 <!-- 备用：如果哪天卡片加载不出来，把上面两行换成下面两行（静态图，不会自动更新）
