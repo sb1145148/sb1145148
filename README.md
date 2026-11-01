@@ -73,7 +73,7 @@
 ## 我的循环
 
 <p align="center">
-  <img src="./flow.svg" width="100%" alt="我的循环：提需求 → AI 写第一版 → 验证 → 部署 / 记录 → 沉淀 → 看数据" />
+  <img src="./flow.svg" width="560" alt="我的循环：提需求 → AI 写第一版 → 验证 → 部署 / 记录 → 沉淀 → 看数据" />
 </p>
 
 **关键在两条回边**：`④ → ⑤` 是把一次失败变成别人也能用的东西（[dsh-tools](https://github.com/sb1145148/dsh-tools)、[misdiagnosed](https://github.com/sb1145148/misdiagnosed) 都是这么来的）；`⑦ → ①` 是不靠感觉判断效果——上线只是开始，数据回来才算这一轮结束。
