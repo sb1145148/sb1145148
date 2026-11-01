@@ -6,9 +6,11 @@ on:
   schedule:
     - cron: "30 3 * * *"      # UTC 03:30 = 北京时间 11:30（比 snake 晚半小时，错开）
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: [".github/workflows/metrics.yml"]
+
+# 两个实例同时跑会抢同一个提交（后到的那个 push 被拒 → 整份失败）
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 
 permissions:
   contents: write
