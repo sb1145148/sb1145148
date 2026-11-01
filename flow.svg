@@ -1,54 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="660" viewBox="0 0 780 660">
-<defs>
-  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-    <path d="M 0 0 L 10 5 L 0 10 z" fill="#f06292"/>
-  </marker>
-</defs>
-<rect width="780" height="660" fill="#fffafc"/>
-<text x="390.0" y="24" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700" fill="#f06292">我的循环：AI 写第一版，我负责判断和沉淀</text>
-<g>
-<rect x="280" y="40" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="390.0" y="62.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">① 提需求</text>
-<text x="390.0" y="82.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">写清楚要什么</text>
-</g>
-<g>
-<rect x="280" y="130" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="390.0" y="152.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">② AI 写第一版</text>
-<text x="390.0" y="172.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">写代码 / 出方案</text>
-</g>
-<g>
-<rect x="280" y="220" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="390.0" y="242.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">③ 跑测试 / 真机验证</text>
-<text x="390.0" y="262.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">能跑 ≠ 跑对</text>
-</g>
-<g><polygon points="390,292.0 465.0,330 390,368.0 315.0,330" fill="#fff5f8" stroke="#f3d6e0" stroke-width="1.5"/><text x="390" y="336" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="600" fill="#3b3b47">通过？</text></g>
-<g>
-<rect x="280" y="410" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="390.0" y="432.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">⑥ 部署上线</text>
-<text x="390.0" y="452.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">发布给真人用</text>
-</g>
-<g>
-<rect x="280" y="500" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="390.0" y="522.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">⑦ 看真实数据</text>
-<text x="390.0" y="542.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">数据说了算</text>
-</g>
-<g>
-<rect x="540" y="296" width="200" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="640.0" y="318.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">④ 记录：它错在哪</text>
-<text x="640.0" y="338.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">不猜，只记</text>
-</g>
-<g>
-<rect x="540" y="386" width="200" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
-<text x="640.0" y="408.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">⑤ 沉淀成工具</text>
-<text x="640.0" y="428.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">下次不再踩</text>
-</g>
-<path d="M 390,96 L 390,128" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M 390,186 L 390,218" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M 390,276 L 390,292" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M 390,368 L 390,408" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/><text x="430" y="386" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#f06292">通过</text>
-<path d="M 390,466 L 390,498" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M 465,330 L 538,330" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/><text x="500" y="316" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#f06292">不通过</text>
-<path d="M 640,352 L 640,384" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/>
-<path d="M 740,414 L 740,158 L 502,158" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/><text x="700" y="284" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#f06292">回到 ②</text>
-<path d="M 280,528 L 150,528 L 150,68 L 278,68" fill="none" stroke="#f06292" stroke-width="2" marker-end="url(#ah)"/><text x="150" y="294" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#f06292">下一轮</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="680" viewBox="0 0 780 680">
+<defs><marker id="mm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#333333"/></marker></defs>
+<rect width="780" height="680" fill="#ffffff"/>
+<g><rect x="270" y="44" width="240" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="390.0" y="70.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">提需求</text><text x="390.0" y="89.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">写清楚要什么</text></g>
+<g><rect x="270" y="140" width="240" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="390.0" y="166.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">AI 写第一版</text><text x="390.0" y="185.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">写代码 / 出方案</text></g>
+<g><rect x="270" y="236" width="240" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="390.0" y="262.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">跑测试 / 真机验证</text><text x="390.0" y="281.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">能跑 ≠ 跑对</text></g>
+<g><polygon points="390,309.0 470.0,352 390,395.0 310.0,352" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="390" y="357" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">通过？</text></g>
+<g><rect x="270" y="436" width="240" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="390.0" y="462.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">部署上线</text><text x="390.0" y="481.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">发布给真人用</text></g>
+<g><rect x="270" y="532" width="240" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="390.0" y="558.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">看真实数据</text><text x="390.0" y="577.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">数据说了算</text></g>
+<g><rect x="556" y="306" width="200" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="656.0" y="332.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">记录：它错在哪</text><text x="656.0" y="351.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">不猜，只记</text></g>
+<g><rect x="556" y="402" width="200" height="60" rx="6" fill="#ececff" stroke="#9370db" stroke-width="1.5"/><text x="656.0" y="428.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">沉淀成工具</text><text x="656.0" y="447.0" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="15" fill="#333333">下次不再踩</text></g>
+<path d="M 390,104 L 390,138" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/>
+<path d="M 390,200 L 390,234" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/>
+<path d="M 390,296 L 390,308" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/>
+<path d="M 390,395 L 390,434" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/><rect x="411.0" y="402" width="38" height="19" fill="#ffffff"/><text x="430" y="415" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="13" fill="#333333">通过</text>
+<path d="M 390,496 L 390,530" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/>
+<path d="M 470,352 L 554,336" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/><rect x="486.0" y="317" width="52" height="19" fill="#ffffff"/><text x="512" y="330" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="13" fill="#333333">不通过</text>
+<path d="M 656,366 L 656,400" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/>
+<path d="M 756,432 L 756,170 L 512,170" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/><rect x="667.0" y="287" width="66" height="19" fill="#ffffff"/><text x="700" y="300" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="13" fill="#333333">回到 ②</text>
+<path d="M 270,562 L 140,562 L 140,74 L 268,74" fill="none" stroke="#333333" stroke-width="1.6" marker-end="url(#mm)"/><rect x="114.0" y="307" width="52" height="19" fill="#ffffff"/><text x="140" y="320" text-anchor="middle" font-family="trebuchet ms,verdana,arial,sans-serif" font-size="13" fill="#333333">下一轮</text>
 </svg>
