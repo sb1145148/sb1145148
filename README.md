@@ -54,6 +54,40 @@
 
 ---
 
+## 技能
+
+> 会用的东西，以及大概到什么程度。**写的都真用过**，没用过的不列。
+
+| | |
+| --- | --- |
+| **主要语言** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **平台 / 运行时** | ![Cloudflare](https://img.shields.io/badge/-Workers%20%2F%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![SQLite](https://img.shields.io/badge/-D1%20(SQLite)-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **工具链** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Wrangler](https://img.shields.io/badge/-Wrangler-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| **在学的** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+
+**工作方式**：让 AI 写第一版，我负责定义问题、判断对错、把踩过的坑沉淀成工具。
+不追求「全都会」，追求「每一件写上去的东西都知道边界在哪」。
+
+---
+
+## 我的循环
+
+```mermaid
+flowchart LR
+    A[提需求<br/>写清楚要什么] --> B[AI 写第一版]
+    B --> C{跑测试 / 真机验证}
+    C -->|通过| D[部署上线]
+    C -->|不通过| E[记录：它错在哪]
+    E --> F[沉淀成工具或检查]
+    F --> B
+    D --> G[看真实数据]
+    G --> A
+```
+
+**关键在最后两段**：`E → F` 是把一次失败变成别人也能用的东西（[dsh-tools](https://github.com/sb1145148/dsh-tools)、[misdiagnosed](https://github.com/sb1145148/misdiagnosed) 都是这么来的），`D → G` 是不靠感觉判断效果。
+
+---
+
 ## 统计
 
 <p align="center">
