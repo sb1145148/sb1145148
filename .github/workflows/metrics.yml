@@ -33,8 +33,6 @@ jobs:
           # 半年提交热力图
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          # 最近活动：只取最近的，避免图太长
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
+          # 注：plugin_habits 在只有个人仓库的账号上会抛
+          #   TypeError: Cannot destructure property 'author' of 'undefined'
+          # 导致图里出现红色错误块，所以不启用。
