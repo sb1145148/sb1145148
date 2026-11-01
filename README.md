@@ -64,6 +64,15 @@
   <img width="480" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=langs&theme=pink&langs_count=9&v=2" alt="常用语言" />
 </p>
 
+### 全部活动（自动生成）
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
+</p>
+
+<sub>由 Actions 每天北京时间 11:30 用 <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> 生成，
+图直接提交在仓库里，不依赖任何第三方卡片服务。</sub>
+
 <!-- 备用：如果哪天卡片加载不出来，把上面两行换成下面两行（静态图，不会自动更新）
 <p align="center">
   <img src="./stats.png" width="450" alt="stats" />
