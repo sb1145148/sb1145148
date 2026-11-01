@@ -7,38 +7,38 @@
 <rect width="780" height="660" fill="#fffafc"/>
 <text x="390.0" y="24" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="15" font-weight="700" fill="#f06292">我的循环：AI 写第一版，我负责判断和沉淀</text>
 <g>
-<rect x="280" y="40" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="280" y="40" width="220" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="390.0" y="62.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">① 提需求</text>
 <text x="390.0" y="82.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">写清楚要什么</text>
 </g>
 <g>
-<rect x="280" y="130" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="280" y="130" width="220" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="390.0" y="152.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">② AI 写第一版</text>
 <text x="390.0" y="172.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">写代码 / 出方案</text>
 </g>
 <g>
-<rect x="280" y="220" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="280" y="220" width="220" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="390.0" y="242.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">③ 跑测试 / 真机验证</text>
 <text x="390.0" y="262.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">能跑 ≠ 跑对</text>
 </g>
-<g><polygon points="390,292.0 465.0,330 390,368.0 315.0,330" fill="#fff5f8" stroke="#f3d6e0" stroke-width="1.5"/><text x="390" y="336" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="600" fill="#3b3b47">通过？</text></g>
+<g><polygon points="390,292.0 465.0,330 390,368.0 315.0,330" fill="#fff5f8" stroke="#f5c6d6" stroke-width="1.5"/><text x="390" y="336" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="16" font-weight="600" fill="#3b3b47">通过？</text></g>
 <g>
-<rect x="280" y="410" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="280" y="410" width="220" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="390.0" y="432.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">⑥ 部署上线</text>
 <text x="390.0" y="452.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">发布给真人用</text>
 </g>
 <g>
-<rect x="280" y="500" width="220" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="280" y="500" width="220" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="390.0" y="522.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">⑦ 看真实数据</text>
 <text x="390.0" y="542.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">数据说了算</text>
 </g>
 <g>
-<rect x="540" y="296" width="200" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="540" y="296" width="200" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="640.0" y="318.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">④ 记录：它错在哪</text>
 <text x="640.0" y="338.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">不猜，只记</text>
 </g>
 <g>
-<rect x="540" y="386" width="200" height="56" rx="14" fill="#ffffff" stroke="#f3d6e0" stroke-width="1.5"/>
+<rect x="540" y="386" width="200" height="56" rx="14" fill="#ffffff" stroke="#f5c6d6" stroke-width="1.5"/>
 <text x="640.0" y="408.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="600" fill="#3b3b47">⑤ 沉淀成工具</text>
 <text x="640.0" y="428.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,sans-serif" font-size="12" fill="#7a7a88">下次不再踩</text>
 </g>
