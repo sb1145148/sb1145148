@@ -130,5 +130,5 @@
 </p>
 
 <p align="center">
-  <img src="https://sb1145148.dpdns.org/views.svg" alt="visitors" />
+  <img src="https://sb1145148.dpdns.org/views.svg?style=moe" alt="visitors" />
 </p>
