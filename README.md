@@ -130,5 +130,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sb1145148&color=ff7a45&style=flat-square&label=visitors" alt="visitors" />
+  <img src="https://sb1145148.dpdns.org/views.svg" alt="visitors" />
 </p>
