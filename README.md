@@ -130,5 +130,5 @@
 </p>
 
 <p align="center">
-  <img src="https://sb1145148.dpdns.org/views.svg?style=moe" alt="visitors" />
+  <img src="https://sb1145148.dpdns.org/views.svg?style=moe&src=readme" alt="README 浏览数与网站访问数（来源：/api/badge-views 与 /api/visits）" />
 </p>
