@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="sb1145148" />
+  <img src="./banner.png" width="100%" alt="whalemiao" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sb1145148.dpdns.org"><img src="https://img.shields.io/badge/个人站-sb1145148.dpdns.org-ff7a45?style=for-the-badge&logo=cloudflare&logoColor=white" alt="website" /></a>
+  <a href="https://whalemiao.dpdns.org"><img src="https://img.shields.io/badge/个人站-whalemiao.dpdns.org-ff7a45?style=for-the-badge&logo=cloudflare&logoColor=white" alt="website" /></a>
   <img src="https://img.shields.io/badge/身份-个人 AI 开发者-5694ff?style=for-the-badge" alt="role" />
   <img src="https://img.shields.io/badge/在写-Python%20%C2%B7%20JS%20%C2%B7%20Shell-a78bfa?style=for-the-badge" alt="stack" />
 </p>
@@ -16,14 +16,14 @@
 
 ## 主推
 
-### 🛠 [dsh-tools](https://github.com/sb1145148/dsh-tools)
+### 🛠 [dsh-tools](https://github.com/whalemiao/dsh-tools)
 `Shell`
 
 给 DSHA 做能真的恢复回来的备份。两个命令，绕开应用自带备份的 `ARCHIVE_LINK_ESCAPE`。
 
 <img src="https://img.shields.io/badge/-backup-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/-android-3ddc84?style=flat-square" /> <img src="https://img.shields.io/badge/-shell-89e051?style=flat-square" />
 
-### 🎨 [profile-kit](https://github.com/sb1145148/profile-kit)
+### 🎨 [profile-kit](https://github.com/whalemiao/profile-kit)
 `JavaScript`
 
 开源个人博客模板。Cloudflare Pages + Workers + D1，零成本部署，MIT。
@@ -34,12 +34,12 @@
 
 ## 其他
 
-### ✨ [particle-gallery](https://github.com/sb1145148/particle-gallery)
+### ✨ [particle-gallery](https://github.com/whalemiao/particle-gallery)
 `JavaScript`
 
 粒子效果相册，支持自定义图片。用 deepseek-harness 做的小实验。
 
-### 💣 [minesweeper](https://github.com/sb1145148/minesweeper)
+### 💣 [minesweeper](https://github.com/whalemiao/minesweeper)
 `HTML`
 
 扫雷。用来验证「AI 能不能独立写完一个小游戏」。
@@ -49,7 +49,7 @@
 ## 在做的
 
 - 让 AI 接管一部分开发流程：写代码、跑测试、部署，然后记录它错在哪
-- 用公开数据做小规模观察实验，结论写进[站点](https://sb1145148.dpdns.org)
+- 用公开数据做小规模观察实验，结论写进[站点](https://whalemiao.dpdns.org)
 - 把踩过的坑做成能复用的工具，而不是留在对话记录里
 
 ---
@@ -80,18 +80,18 @@
 </picture>
 </p>
 
-**关键在两条回边**：`④ → ⑤` 是把一次失败变成别人也能用的东西（[dsh-tools](https://github.com/sb1145148/dsh-tools)、[misdiagnosed](https://github.com/sb1145148/misdiagnosed) 都是这么来的）；`⑦ → ①` 是不靠感觉判断效果——上线只是开始，数据回来才算这一轮结束。
+**关键在两条回边**：`④ → ⑤` 是把一次失败变成别人也能用的东西（[dsh-tools](https://github.com/whalemiao/dsh-tools)、[misdiagnosed](https://github.com/whalemiao/misdiagnosed) 都是这么来的）；`⑦ → ①` 是不靠感觉判断效果——上线只是开始，数据回来才算这一轮结束。
 
 ---
 
 ## 统计
 
 <p align="center">
-  <img width="480" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=stats&theme=pink&v=2" alt="GitHub 统计" />
+  <img width="480" src="https://cards.whalemiao.dpdns.org/api?username=whalemiao&type=stats&theme=pink&v=2" alt="GitHub 统计" />
 </p>
 
 <p align="center">
-  <img width="480" src="https://cards.sb1145148.dpdns.org/api?username=sb1145148&type=langs&theme=pink&langs_count=9&v=2" alt="常用语言" />
+  <img width="480" src="https://cards.whalemiao.dpdns.org/api?username=whalemiao&type=langs&theme=pink&langs_count=9&v=2" alt="常用语言" />
 </p>
 
 ### 全部活动（自动生成）
@@ -116,8 +116,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sb1145148/sb1145148/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sb1145148/sb1145148/output/snake.svg" alt="contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whalemiao/whalemiao/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/whalemiao/whalemiao/output/snake.svg" alt="contribution snake" width="100%" />
   </picture>
 </p>
 
@@ -130,5 +130,5 @@
 </p>
 
 <p align="center">
-  <img src="https://sb1145148.dpdns.org/views.svg?style=moe&src=readme" alt="README 浏览数与网站访问数（来源：/api/badge-views 与 /api/visits）" />
+  <img src="https://whalemiao.dpdns.org/views.svg?style=moe&src=readme" alt="README 浏览数与网站访问数（来源：/api/badge-views 与 /api/visits）" />
 </p>
