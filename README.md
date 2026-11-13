@@ -87,11 +87,11 @@
 ## 统计
 
 <p align="center">
-  <img width="480" src="https://cards.whalemiao.dpdns.org/api?username=whalemiao&type=stats&theme=pink&v=2" alt="GitHub 统计" />
+  <img width="480" src="https://whalemiao.dpdns.org/cards?username=whalemiao&type=stats&theme=pink&v=3" alt="GitHub 统计" />
 </p>
 
 <p align="center">
-  <img width="480" src="https://cards.whalemiao.dpdns.org/api?username=whalemiao&type=langs&theme=pink&langs_count=9&v=2" alt="常用语言" />
+  <img width="480" src="https://whalemiao.dpdns.org/cards?username=whalemiao&type=langs&theme=pink&langs_count=9&v=3" alt="常用语言" />
 </p>
 
 ### 全部活动（自动生成）
